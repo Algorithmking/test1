@@ -1,0 +1,9 @@
+cat is cat
+dog is dog
+ monkey is monkey
+ tager is tager
+bear is bear
+elephant is elephant
+lion is lion
+cat is cat
+fish is fish
